@@ -58,47 +58,16 @@
   height: 53px;
   border-radius: 300px;
 }
-
-// .src_return {
-//   background-size: cover;
-//   background-position: center;
-
-// }
-
-// .bg {
-//   background-image: url(./imgs/image_14.jpg);
-//   height: 400px;
-//   background-attachment: fixed;
-  
-// }
-
-
 .cont_3 {
 	background-image: url(./imgs/image_14.jpg);
 	width: 100%;
 	background-attachment: fixed;
 	filter: brightness(0.5);
-	height: 400px;
+	height: 450px;
 	background-position: center;
 	background-size: cover;
 
 }
-
-// .cont_3 img {
-// 	height: 350px;
-//   background-attachment: fixed;
-// //   filter:brightness(0.6);
-//   // background-attachment: fixed;
-
-// }
-
-
-// 
-
-// .div-imagen {
-//   display:inline-block;
-//   position:relative;
-// }
 .parrafo {
   text-align: justify;
 }
@@ -113,34 +82,28 @@
   height: 274.500px;
 
  }
-
  .portfolio-caption {
-      height: 106px;
-
+  height: 106px;
 } 
-
 .cont_5 {
   background-image: url(./imgs/image_3.jpg);
   width: 100%;
   background-attachment: fixed;
   filter: brightness(0.5);
-  height: 400px;
+  height: 450px;
   background-position: center;
-  background-size: cover;
-    
+  background-size: cover;   
 }
-
 .cont_6 {
   background-image: url(./imgs/image_27.jpg);
   width: 100%;
   background-attachment: fixed;
   filter: brightness(0.5);
-  height: 400px;
+  height: 450px;
   background-position: center;
   background-size: cover;
     
 }
-
 .img_tems {
   border-radius: 5%;
   box-shadow: 2px 2px 5px #999;
@@ -173,24 +136,17 @@ transform-style: preserve-3d;
 }
 
 .hover_1:hover h1 {
-  transform: translate(-50%, -50%) scale(1);
-  
-  
+  transform: translate(-50%, -50%) scale(1);  
 }
 
 .hover_1:hover img {
-  
   filter: brightness(0.5);
 }
-
 .hover_1:before {
- 
   content: '';
-  
   position: absolute;
  
- } 
-
+ }
 .hover_1 .submenu {
      
   width: 350px;
