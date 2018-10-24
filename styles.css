@@ -57,6 +57,14 @@
 	font-size: 40px;
 
 }
+.mifuente {
+    font-size: 2vh;
+}
+.boton {
+  color: #fff;
+  background-color: #007bff;
+  border-color: #007bff;
+}
 .btn {
 	width: 265px;
   height: 53px;
@@ -159,11 +167,13 @@ transform-style: preserve-3d;
   background-color: #fff;
 }
 
-.transparent {
-  opacity: 0.8;
-}
 .color {
   color: #273746;
+}
+
+.barner_final {
+  background: #222529;
+  height: 50px; 
 }
 
 
