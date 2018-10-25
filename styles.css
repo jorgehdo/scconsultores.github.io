@@ -26,14 +26,13 @@
 }
 
 .tel {
-
-    color: #fff;
-    top: 20px;
-    font-family: GothamBold;
-    line-height: initial !important;
-    border: 1px solid #fff;
-    border-radius: 30px;
-    padding: 6px 10px 6px 10px;
+  color: #fff;
+  top: 20px;
+  font-family: GothamBold;
+  line-height: initial !important;
+  border: 1px solid #fff;
+  border-radius: 30px;
+  padding: 6px 10px 6px 10px;
 }
 
 .d-block {
@@ -52,13 +51,10 @@
 
 .titles h2 {
 	font-family: Catamaran,Helvetica,Arial,sans-serif;
-    font-weight: 500;
-    letter-spacing: 1px;
+  font-weight: 500;
+  letter-spacing: 1px;
 	font-size: 40px;
 
-}
-.mifuente {
-    font-size: 2vh;
 }
 .boton {
   color: #fff;
@@ -155,7 +151,7 @@ transform-style: preserve-3d;
   filter: brightness(0.5);
 }
 .hover_1:before {
-  content: '';
+  // content: '';
   position: absolute;
  
  }
