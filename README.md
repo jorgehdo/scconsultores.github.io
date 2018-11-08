@@ -1,2 +1,2 @@
-# scconsultores.github.io
+scconsultores.github.io
 Pagina RH
